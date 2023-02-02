@@ -30,6 +30,10 @@ h1 {
     color: brown;
     text-align: center;
 }
+h3 {
+  color: brown;
+  /*text-align: center;*/
+}
 
 .center {
   margin: auto;
@@ -49,3 +53,13 @@ img {
   border: 1px solid #777;
   width : 50%
 }
+.login {
+  margin:auto;
+}
+
+body {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
